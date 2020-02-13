@@ -13,9 +13,7 @@ body {
 .main-content {
     flex-grow: 1
 }
- img {
-    margin: 0% 45% 0% 50%;
-}
+ 
 
 footer {
     color: #888888;
